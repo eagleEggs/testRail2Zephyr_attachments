@@ -1,2 +1,3 @@
 # testRail2Zephyr_attachments
-Copy Attachments for Tests from TestRail to Zephyr
+
+Copies Attachments from TestRail to Zephyr based on whether the tests have the same name
